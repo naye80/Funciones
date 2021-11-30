@@ -1,0 +1,15 @@
+C:\Programación V\Funciones\bin\Debug\net6.0\Funciones.exe
+C:\Programación V\Funciones\bin\Debug\net6.0\Funciones.deps.json
+C:\Programación V\Funciones\bin\Debug\net6.0\Funciones.runtimeconfig.json
+C:\Programación V\Funciones\bin\Debug\net6.0\Funciones.dll
+C:\Programación V\Funciones\bin\Debug\net6.0\ref\Funciones.dll
+C:\Programación V\Funciones\bin\Debug\net6.0\Funciones.pdb
+C:\Programación V\Funciones\obj\Debug\net6.0\Funciones.csproj.AssemblyReference.cache
+C:\Programación V\Funciones\obj\Debug\net6.0\Funciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programación V\Funciones\obj\Debug\net6.0\Funciones.AssemblyInfoInputs.cache
+C:\Programación V\Funciones\obj\Debug\net6.0\Funciones.AssemblyInfo.cs
+C:\Programación V\Funciones\obj\Debug\net6.0\Funciones.csproj.CoreCompileInputs.cache
+C:\Programación V\Funciones\obj\Debug\net6.0\Funciones.dll
+C:\Programación V\Funciones\obj\Debug\net6.0\ref\Funciones.dll
+C:\Programación V\Funciones\obj\Debug\net6.0\Funciones.pdb
+C:\Programación V\Funciones\obj\Debug\net6.0\Funciones.genruntimeconfig.cache
